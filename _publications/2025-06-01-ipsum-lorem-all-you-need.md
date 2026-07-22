@@ -9,5 +9,6 @@ venue: 'Accepted as an oral presentation at COML 2025 - Conference on Machine Le
 slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem.pdf'
 paperurl: 'https://openreview.net/forum?id=example123'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem.bib'
+codeurl: 'https://github.com/Pyramidlaprosper/ipsum-lorem-all-you-need'
 citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need." <i>Accepted as an oral presentation at COML 2025 - Conference on Machine Learning</i>.'
 ---
